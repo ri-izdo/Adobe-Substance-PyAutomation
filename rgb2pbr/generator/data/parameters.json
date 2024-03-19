@@ -1,0 +1,5 @@
+{"texture":
+    {
+    "channel":["basecolor","height","normal","metallic","roughness","ao"]
+    }
+}
